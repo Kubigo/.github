@@ -17,8 +17,7 @@ A powerful and responsive web-based dashboard for managing multiple Kubernetes c
 
 <p align="center">
   <a href="https://discord.gg/KbXVnFb2jj" target="_blank">
-    <img src="images/discord.png" alt="Join us on Discord" width="40" style="vertical-align:middle;" />
-    <span style="font-size:1.2em; font-weight:bold; vertical-align:middle;"> Join our Discord</span>
+    <img src="images/discord.png" alt="Join us on Discord" width="100" style="vertical-align:middle;" />
   </a>
 </p>
 
